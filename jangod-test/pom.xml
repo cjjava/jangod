@@ -15,17 +15,12 @@
 			<artifactId>junit</artifactId>
 		</dependency>
 		<dependency>
-			<groupId>jangod-core</groupId>
-			<artifactId>jangod-core</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
-		<dependency>
-			<groupId>jangod-script</groupId>
+			<groupId>net.asfun.jangod</groupId>
 			<artifactId>jangod-script</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 		<dependency>
-			<groupId>jangod-template</groupId>
+			<groupId>net.asfun.jangod</groupId>
 			<artifactId>jangod-template</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>

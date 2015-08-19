@@ -8,7 +8,7 @@
   </parent>
   <dependencies>
   	<dependency>
-  		<groupId>jangod-core</groupId>
+  		<groupId>net.asfun.jangod</groupId>
   		<artifactId>jangod-core</artifactId>
   		<version>0.0.1-SNAPSHOT</version>
   	</dependency>
