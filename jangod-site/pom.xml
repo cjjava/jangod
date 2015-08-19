@@ -2,7 +2,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>jangod-site</groupId>
   <artifactId>jangod-site</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
   <dependencies>
   	<dependency>
   		<groupId>jangod-template</groupId>
@@ -10,4 +9,9 @@
   		<version>0.0.1-SNAPSHOT</version>
   	</dependency>
   </dependencies>
+  <parent>
+  	<groupId>net.asfun.jangod</groupId>
+  	<artifactId>jangod-parent</artifactId>
+  	<version>0.0.1-SNAPSHOT</version>
+  </parent>
 </project>

@@ -2,5 +2,9 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>jangod-core</groupId>
   <artifactId>jangod-core</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <parent>
+  	<groupId>net.asfun.jangod</groupId>
+  	<artifactId>jangod-parent</artifactId>
+  	<version>0.0.1-SNAPSHOT</version>
+  </parent>
 </project>

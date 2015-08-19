@@ -1,1 +1,12 @@
 /target
+/.project
+.settings
+/jangod-core/.classpath
+/jangod-core/.project
+/jangod-script/.classpath
+/jangod-script/.project
+/jangod-site/.classpath
+/jangod-site/.project
+/jangod-spring-mvc/.classpath
+.project
+.classpath
